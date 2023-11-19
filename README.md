@@ -38,4 +38,8 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/sheepy._.snoopy/"/>
 </a>
+<a href="https://sheepseung.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&link=https://sheepseung.tistory.com/"/>
+</a>
 
