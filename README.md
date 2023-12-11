@@ -25,10 +25,6 @@
 - 인하대학교 SW Inovation Academy (2023.09 ~ )
 
 <br><br>
-### 🧑‍💻ALGORITHM
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=popo1805)
-
-<br><br>
 ### 📞Conctat
 <a href="https://www.instagram.com/sheepy._.snoopy/">
     <img 
