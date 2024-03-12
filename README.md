@@ -28,12 +28,13 @@
 ### 📞Conctat
 <a href="https://www.instagram.com/sheepy._.snoopy/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/sheepy._.snoopy/"/>
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/sheepy._.snoopy/">
 </a>
 <a href="https://sheepseung.tistory.com/">
     <img 
         src="http://img.shields.io/badge/tistory-black?style=flat&logo=tistory&link=https://sheepseung.tistory.com"/>
 </a>
-
+디스콰이엇: <a href="https://disquiet.io/@sheepseung/">
+</a>
 
 
