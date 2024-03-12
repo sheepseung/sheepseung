@@ -34,7 +34,7 @@
     <img 
         src="http://img.shields.io/badge/tistory-black?style=flat&logo=tistory&link=https://sheepseung.tistory.com"/>
 </a>
-디스콰이엇: <a href="https://disquiet.io/@sheepseung/">
-</a>
+</br>
+<a href="https://disquiet.io/@sheepseung/">디스콰이엇</a>
 
 
