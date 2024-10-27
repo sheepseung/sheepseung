@@ -11,7 +11,7 @@
 ### 🛠STAKCS
 - Programming Language
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <br>
-- FrameWork <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <br>
+- FrameWork <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <br>
 - DataBase <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <br>
 
@@ -21,8 +21,8 @@
 - 연합동아리 UMC 3기 iOS 파트 (2022.09 ~ 2023.02)
 - 연합동아리 UMC 4기 Spring 파트 (2023.03 ~ 2023.07)
 - 인하대학교 소모임 땅울림 썸머코딩 서버 파트 (2023.07 ~ 2023.09)
-- 인하대학교 SW Inovation Academy (2023.09 ~ )
-- Violet Pay 인프라 및 서비스단 개발 (2024.03 ~)
+- 인하대학교 SW Inovation Academy 수료 (2023.09 ~ 2024.03)
+- Point3 인프라 및 백엔드 서비스 개발 (2024.03 ~)
 
 <br><br>
 ### 📞Conctat
