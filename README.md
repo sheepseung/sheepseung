@@ -1,12 +1,5 @@
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Welcome%20my%20profile!&fontSize=80&fontColor=F9F4EC) 
    
-### 🐑Introduce 
-백엔드 개발자를 꿈꾸는 양재승 입니다👋<br>
-저만의 속도로 차근차근 성장중입니다.🐢<br>
-어제와 다른 오늘을 만들어 보아요!🌙<br><br>
-💼 Point3 서버 엔지니어 재직중 (2024.03 ~)
-
-
 <br><br>
 ### 🛠STAKCS
 - Programming Language
@@ -22,7 +15,7 @@
 - 연합동아리 UMC 4기 Spring 파트 (2023.03 ~ 2023.07)
 - 인하대학교 소모임 땅울림 썸머코딩 서버 파트 (2023.07 ~ 2023.09)
 - 인하대학교 SW Inovation Academy 수료 (2023.09 ~ 2024.03)
-- Point3 인프라 및 백엔드 서비스 개발 (2024.03 ~)
+- Point3 도메인 아키텍처 및 서버 개발 (2024.03 ~)
 
 <br><br>
 ### 📞Conctat
