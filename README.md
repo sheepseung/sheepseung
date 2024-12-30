@@ -1,9 +1,8 @@
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Welcome%20my%20profile!&fontSize=80&fontColor=F9F4EC) 
 <br>
 ### 🏆ACTIVITY
-- 연합동아리 UMC 3기 iOS 파트 (2022.09 ~ 2023.02)
 - 연합동아리 UMC 4기 Spring 파트 (2023.03 ~ 2023.07)
-- 인하대학교 소모임 땅울림 썸머코딩 서버 파트 (2023.07 ~ 2023.09)
+- 인하대학교 땅울림 썸머코딩 스터디 서버 파트 (2023.07 ~ 2023.09)
 - 인하대학교 SW Inovation Academy 수료 (2023.09 ~ 2024.03)
 - Point3 도메인 아키텍처 및 서버 개발 (2024.03 ~)
    
@@ -19,7 +18,6 @@
 
 <br><br>
 ### 📞Conctat
-<a href="https://www.instagram.com/sheepy._.snoopy/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.linkedin.com/in/%EC%9E%AC%EC%8A%B9-%EC%96%91-80626b2b1/">
+<a href="https://www.linkedin.com/in/%EC%9E%AC%EC%8A%B9-%EC%96%91-80626b2b1/">
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 </a>
