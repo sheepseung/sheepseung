@@ -21,5 +21,5 @@
 ### 📞Conctat
 <a href="https://www.instagram.com/sheepy._.snoopy/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/sheepy._.snoopy/">
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.linkedin.com/in/%EC%9E%AC%EC%8A%B9-%EC%96%91-80626b2b1/">
 </a>
