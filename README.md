@@ -19,5 +19,5 @@
 <br><br>
 ### 📞Conctat
 <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%8A%B9-%EC%96%91-80626b2b1/">
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
