@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Welcome%20my%20profile!&fontSize=80&fontColor=F9F4EC) 
+ ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=About%20me👋%&fontSize=30&fontColor=F9F4EC&fontAlign=10) 
 <br>
 ### 🏆ACTIVITY
 - 연합동아리 UMC 4기 Spring 파트 (2023.03 ~ 2023.07)
