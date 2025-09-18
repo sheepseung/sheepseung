@@ -1,6 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=About%20me👋%&fontSize=30&fontColor=F9F4EC&fontAlign=10) 
 <br>
-사용자가 겪는 어려움을 기술을 통해 문제를 해결함에 가치를 두는 개발자 양재승입니다. 
+사용자가 겪는 어려움을 기술을 통해 문제를 해결함에 가치를 두는 개발자 양재승입니다.🌱
+<br>
 
 - Point3 결제 정산 도메인 아키텍처 설계 및 서버 개발 (2024.03 ~)
    
