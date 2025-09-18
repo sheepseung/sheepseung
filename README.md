@@ -16,7 +16,7 @@
 
 
 <br><br>
-### 📞Conctat
+### 📞Contact
 <a href="https://www.linkedin.com/in/%EC%9E%AC%EC%8A%B9-%EC%96%91-80626b2b1/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
