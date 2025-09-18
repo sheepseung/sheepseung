@@ -1,9 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=About%20me👋%&fontSize=30&fontColor=F9F4EC&fontAlign=10) 
 <br>
-### 🏆ACTIVITY
-- 연합동아리 UMC 4기 Spring 파트 (2023.03 ~ 2023.07)
-- 인하대학교 땅울림 썸머코딩 스터디 서버 파트 (2023.07 ~ 2023.09)
-- 인하대학교 SW Inovation Academy 수료 (2023.09 ~ 2024.03)
+사용자가 겪는 어려움을 기술을 통해 문제를 해결함에 가치를 두는 개발자 양재승입니다. 
+
 - Point3 결제 정산 도메인 아키텍처 설계 및 서버 개발 (2024.03 ~)
    
 <br><br>
